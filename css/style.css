@@ -1,1 +1,42 @@
-html,body{height: 100%;color: aquamarine;}
+body{
+    background-color: #331832 ;
+    color: aliceblue;
+    font-family: 'Noto Sans', sans-serif;
+}
+.pelicula{
+    display: flex;
+    background-color: rgb(107, 0, 0);
+}
+.img_pelicula{
+    width: 250px;
+    height: auto;
+}
+li{
+    list-style: none;
+}
+.descripcion_pelicula{
+    margin-left: 10px;
+}
+.titulo{
+    background-color: darkgreen;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 80px;
+}
+.fraze{
+text-align: center;
+margin-top: 150px;
+font-size: 50px;
+}
+.boton{
+margin: 10% 30% 0 45%;
+background-color: darkgreen;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 30px;
+}
+#index{
+    background-color: black;
+}
